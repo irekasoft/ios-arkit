@@ -31,6 +31,7 @@
 		0793C18018156E9C00E285D7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0793C17918156E9C00E285D7 /* ViewController.m */; };
 		0793C1851815701500E285D7 /* ARKitConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 0793C1841815701500E285D7 /* ARKitConfig.m */; };
 		A3A6884D1B07F9770068ADF4 /* Launch Screen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3A6884C1B07F9770068ADF4 /* Launch Screen.xib */; };
+		A3A6884F1B0856A50068ADF4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = A3A6884E1B0856A50068ADF4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -74,6 +75,7 @@
 		0793C1831815701500E285D7 /* ARKitConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARKitConfig.h; sourceTree = "<group>"; };
 		0793C1841815701500E285D7 /* ARKitConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARKitConfig.m; sourceTree = "<group>"; };
 		A3A6884C1B07F9770068ADF4 /* Launch Screen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "Launch Screen.xib"; sourceTree = "<group>"; };
+		A3A6884E1B0856A50068ADF4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		0793C12318156D5600E285D7 = {
 			isa = PBXGroup;
 			children = (
+				A3A6884E1B0856A50068ADF4 /* README.md */,
 				A3A6884C1B07F9770068ADF4 /* Launch Screen.xib */,
 				0793C13518156D5600E285D7 /* ARKit Example */,
 				0793C12E18156D5600E285D7 /* Frameworks */,
@@ -310,6 +313,7 @@
 				0793C17D18156E9C00E285D7 /* ARGeoCoordinate.m in Sources */,
 				0732E367181AC24D00B168AC /* DetailView.m in Sources */,
 				0793C17F18156E9C00E285D7 /* RadarView.m in Sources */,
+				A3A6884F1B0856A50068ADF4 /* README.md in Sources */,
 				0793C1851815701500E285D7 /* ARKitConfig.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
