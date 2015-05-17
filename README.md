@@ -2,7 +2,7 @@ iOS Augmented Reality Engine
 =========
 
 
-Test..
+Test.. test.
 
 I'm glad to share this engine that I've been developing from time to time with all of you. It's based on the [iPhone ARKit](https://github.com/zac/iphonearkit).
 
